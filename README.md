@@ -1,3 +1,4 @@
+<div align="center">
 
 # Yatsuoo aka Bakasta
 
@@ -37,3 +38,4 @@
 ---
 
 🚀 *MiSide est un banger russe trop sous-estimé pour moi.* 
+</div>
