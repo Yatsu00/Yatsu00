@@ -1,3 +1,4 @@
+
 # Yatsuoo aka Bakasta
 
 ![Ishtar](https://static.wikia.nocookie.net/one-piece-fan-fiction/images/e/e7/Fate_Ishtar_7.gif/revision/latest/scale-to-width-down/250?cb=20200108154220&path-prefix=fr)
