@@ -4,22 +4,34 @@
 
 ## À propos de moi
 
-👋 Salut, moi c'est **Yatsuoo** !  
 🎓 **BTS CIEL ER**  
-🔧 Passionné par l'électronique, la programmation et Ishtar.  
+
+🔧 Passionné par l'électronique, la programmation et Ishtar.
+
+🔧   AR 55 Genshin et AR 60 hsr  
 
 ## Compétences
 
-- **Python** 🐍
-- **C++ (Arduino et standard)** ⚙️
-- **Conception de PCB** 🖥️⚡
-- **Simulation avec Proteus** 🔬
+<div align="center">
+  
+  ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)  
+  ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
+  ![Arduino](https://img.shields.io/badge/Arduino-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white)  
+  ![PCB Design](https://img.shields.io/badge/PCB%20Design-%234caf50.svg?style=for-the-badge&logo=Altium%20Designer&logoColor=white)  
+  ![Proteus](https://img.shields.io/badge/Proteus-%23006db3.svg?style=for-the-badge&logoColor=white)  
+
+</div>
 
 ## Ma philosophie
 
-> "Les PCB et Proteus, c'est la vie."
+<div align="center">
+  <p>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&width=435&lines=Les+PCB+et+Proteus%2C+c'est+la+vie.">
+  </p>
+</div>
 
 ![GIF](https://www.labcenter.com/manualrouting/images/vDRC.gif.pagespeed.ce.xdK-_tXUBD.gif)
+
 
 ---
 
