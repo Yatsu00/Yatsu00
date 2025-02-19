@@ -23,4 +23,4 @@
 
 ---
 
-🚀 *MiSide est un banger russe trop sous estimer pour moi.*
+🚀 *MiSide est un banger russe trop sous-estimé pour moi.* 
