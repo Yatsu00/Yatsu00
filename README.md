@@ -4,15 +4,15 @@
 
 ![Ishtar](https://static.wikia.nocookie.net/one-piece-fan-fiction/images/e/e7/Fate_Ishtar_7.gif/revision/latest/scale-to-width-down/250?cb=20200108154220&path-prefix=fr)
 
-## À propos de moi
+# À propos de moi
 
-🎓 **BTS CIEL ER**  
+#🎓 **BTS CIEL ER**  
 
 🔧 Passionné par l'électronique, la programmation et Ishtar.
 
 🔧   AR 55 Genshin et AR 60 hsr  
 
-## Compétences
+# Compétences
 
 <div align="center">
   
@@ -24,7 +24,7 @@
 
 </div>
 
-## Ma philosophie
+# Ma philosophie
 
 <div align="center">
   <p>
