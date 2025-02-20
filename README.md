@@ -1,7 +1,7 @@
 <div align="center">
 
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=60&pause=1000&color=8B00FF&center=true&vCenter=true&width=600&lines=Yatsuoo+Aka+Bakasta">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&pause=1000&color=8B00FF&center=true&vCenter=true&width=600&lines=Yatsuoo+Aka+Bakasta">
 </p>  
 
 ![Ishtar](https://static.wikia.nocookie.net/one-piece-fan-fiction/images/e/e7/Fate_Ishtar_7.gif/revision/latest/scale-to-width-down/250?cb=20200108154220&path-prefix=fr)
