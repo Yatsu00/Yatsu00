@@ -14,7 +14,7 @@
 
 🔧 Passionné par l'électronique, la programmation et Ishtar.
 
-🔧   AR 56 Genshin et AR 70 hsr  
+🔧   AR 57 Genshin et AR 70 hsr  
 
  
 
